@@ -1,0 +1,64 @@
+
+
+
+
+
+/* ----------------------------------------common css------------------------ */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+ul,ol{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+/* -------------nav bar part st----------- */
+
+
+.main_logo img{
+    width: 167px;
+    height: 41px;
+}
+.nav_text ul li{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
